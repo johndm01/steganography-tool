@@ -1,2 +1,2 @@
 # steganography-tool
-TUI tool that has implementations for different Steganographic techniques built for learning purposes.
+TUI tool that has implementations for different steganographic techniques built for learning purposes.
